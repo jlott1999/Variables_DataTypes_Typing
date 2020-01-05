@@ -10,3 +10,4 @@ let obj = {
 };
 
 console.log(obj.obj2.obj2Key1);
+
